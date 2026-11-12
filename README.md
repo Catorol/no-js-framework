@@ -1,8 +1,8 @@
 # no-js-framework
 
-Список пользователей: https://dummyjson.com/users/.
+Список пользователей: https://dummyjson.com/users/
 
-Приложение: https://сatorol.github.io/no-js-framework/
+Приложение: [https://сatorol.github.io/no-js-framework/](https://catorol.github.io/no-js-framework/)
 
 ## Инструменты и почему
 
